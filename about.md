@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi! My name is Pawel and I'm a software developer. I'm interested in everything that is IT related - from pure ```C# + .NET``` to ```node.js and MongoDB```. I love new technologies and trying new things.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I have been working mainly with Microsoft technologies starting with Visual C++ 6.0 and currently developing with Visual Studio 2013 and .NET 4.5.1.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you want to know more about my skills please see my [linked-in profile](https://www.linkedin.com/pub/pawel-burzynski/3a/3a6/776)
+
