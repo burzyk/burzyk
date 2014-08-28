@@ -1,10 +1,24 @@
 /**
  * Site header
  */
+
+.site-avatar {
+    float: left;
+    border-radius: 30px;
+    margin-right: 20px;   
+}
+
+@include media-query($on-palm) {
+    .site-avatar {
+        display: none;
+    }
+}
+
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    padding: 5px 0;
 
     // Positioning context for the mobile navigation icon
     position: relative;
