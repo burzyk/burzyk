@@ -2,8 +2,9 @@
 layout: post
 title:  "Hello World!"
 date:   2014-08-28 22:38:58
-categories: jekyll update
+categories: Hello world
 ---
+
 So I have created [burzyk.github.io](http://github.com/burzyk/burzyk.github.io) repository, initialized [jekyll](http://jekyllrb.com/) and started my own blog ... now what?
 
 I guess it makes sense to write my first post. Because this is a software development related blog it feels right to start it with a good old **Hello World**
