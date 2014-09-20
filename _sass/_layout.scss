@@ -16,7 +16,7 @@
 
 .site-header {
 //    background-image: linear-gradient($banner-color-light, $banner-color 60%, $banner-color-dark);
-    background-color: $banner-color-light;
+    //background-color: $banner-color-light;
     border-bottom: 1px solid $banner-color;
    // box-shadow: 0 0 5px $grey-color-dark;       
     padding: 5px 0;    
@@ -30,6 +30,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    line-height: 56px;
 
     &,
     &:visited {
@@ -39,7 +40,7 @@
 
 .site-nav {
     float: right;
-    line-height: 40px;
+    line-height: 56px;
 
     .menu-icon {
         display: none;
