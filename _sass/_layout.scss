@@ -2,9 +2,9 @@
  * Site header
  */
 
-.site-avatar {
-    float: left;
+.site-avatar {      
     border-radius: 30px;
+    float: left;
     margin-right: 20px;   
 }
 
@@ -15,10 +15,10 @@
 }
 
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    background-image: linear-gradient($banner-color-light, $banner-color 60%, $banner-color-dark);
+    box-shadow: 0 0 10px $grey-color-dark;    
     min-height: 56px;
-    padding: 5px 0;
+    padding: 5px 0;    
 
     // Positioning context for the mobile navigation icon
     position: relative;
