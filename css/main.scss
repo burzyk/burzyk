@@ -21,11 +21,10 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$main-color:       #A38974;
-
-$banner-color:      $main-color;
-$banner-color-light: lighten($banner-color, 5%);
-$banner-color-dark:  darken($banner-color, 5%);
+$banner-base-color: lighten($brand-color, 20%);
+$banner-color:      $banner-base-color;
+$banner-color-light: lighten($banner-base-color, 10%);
+$banner-color-dark:  darken($banner-base-color, 10%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
