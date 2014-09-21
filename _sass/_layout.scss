@@ -22,7 +22,7 @@
 .site-header {
 //    background-image: linear-gradient($banner-color-light, $banner-color 60%, $banner-color-dark);
     //background-color: $banner-color-light;
-    border-bottom: 1px solid $banner-color;
+    border-bottom: 1px solid $brand-color-dark;
    // box-shadow: 0 0 5px $grey-color-dark;       
     padding: 5px 0;    
 
@@ -112,7 +112,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $brand-color-dark;
     padding: $spacing-unit 0;
 }
 
