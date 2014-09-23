@@ -32,7 +32,7 @@ public void DisplaySongs()
 
 {% endhighlight %}
 
-Official documentation for iterators say:
+Official documentation for iterators says:
 
 > When the compiler detects your iterator, it will automatically generate the Current, MoveNext and Dispose methods of the IEnumerable or IEnumerable<T> interface.
 
